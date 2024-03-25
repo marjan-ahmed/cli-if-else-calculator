@@ -1,0 +1,24 @@
+{
+  "name": "@marjan-ahmed/cli-if-else-calculator",
+  "version": "2.0.0",
+  "description": "The calculator is made up of 'if-else' method",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "cli-if-else-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30",
+    "inquirer": "^9.2.16"
+  }
+}

@@ -1,5 +1,6 @@
 <h2>Installation</h2>
 
+
 ```js
 npm i @marjanahmed/cli-if-else-calculator
 ```
